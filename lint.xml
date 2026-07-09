@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="Compliance" severity="ignore" in="studio" />
+    <issue
+        id="PlaySdkIndexDeprecated,PlaySdkIndexGenericIssues,PlaySdkIndexNonCompliant,PlaySdkIndexVulnerability"
+        severity="ignore"
+        in="studio" />
+</lint>
